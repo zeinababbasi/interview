@@ -1,2 +1,2 @@
 # interview
-some interview questions
+some interview questions to solve
